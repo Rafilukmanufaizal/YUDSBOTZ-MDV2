@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://postimg.cc/r0RngBHc" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/1a43886594f138d331aa3.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">YudsBotz-Md</h1>
 <p align="center">
